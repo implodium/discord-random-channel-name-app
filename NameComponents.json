@@ -1,0 +1,157 @@
+{
+  "adjectives":
+  [
+    "kleinlich",
+    "schüchtern",
+    "nackt",
+    "groß",
+    "explosiv",
+    "weich",
+    "nass",
+    "flüchtig",
+    "tot",
+    "süß",
+    "bitter",
+    "enorm",
+    "spektakulär",
+    "ruhig",
+    "tanzfreudig",
+    "suizidgefährdet",
+    "katholisch",
+    "englisch",
+    "französisch",
+    "blank",
+    "schwer",
+    "strahlend",
+    "furchteinflößend",
+    "kaiserlich",
+    "kleinwüchsig"
+  ],
+  "nomen":
+  [
+    {
+      "name": "Wut",
+      "article": "die"
+    },
+    {
+      "name": "Angst",
+      "article": "die"
+    },
+    {
+      "name": "Baum",
+      "article": "der"
+    },
+    {
+      "name": "Küchenschnuckel",
+      "article": "der"
+    },
+    {
+      "name": "Vogel",
+      "article": "der"
+    },
+    {
+      "name": "Twitter",
+      "article": "das"
+    },
+    {
+      "name": "Tod",
+      "article": "der"
+    },
+    {
+      "name": "Gaukelpuppe",
+      "article": "die "
+    },
+    {
+      "name": "Zwetschkenkobold",
+      "article": "der"
+    },
+    {
+      "name": "Zwetschkenkrampus",
+      "article": "der"
+    },
+    {
+      "name": "Banane",
+      "article": "die"
+    },
+    {
+      "name": "Kirby",
+      "article": "das"
+    },
+    {
+      "name": "Film",
+      "article": "der"
+    },
+    {
+      "name": "Flugzeug",
+      "article": "das"
+    },
+    {
+      "name": "Brot",
+      "article": "das"
+    },
+    {
+      "name": "Alkohol",
+      "article": "der"
+    },
+    {
+      "name": "Bier",
+      "article": "das"
+    },
+    {
+      "name": "Vodka",
+      "article": "der"
+    },
+    {
+      "name": "Saft",
+      "article": "der"
+    },
+    {
+      "name": "Orangensaft",
+      "article": "der"
+    },
+    {
+      "name": "Wasser",
+      "article": "das"
+    },
+    {
+      "name": "Mineralwasser",
+      "article": "das"
+    },
+    {
+      "name": "Ananassaft",
+      "article": "der"
+    },
+    {
+      "name": "Drachenfruchtsaft",
+      "article": "der"
+    },
+    {
+      "name": "Bananensaft",
+      "article": "der"
+    },
+    {
+      "name": "Saftpresse",
+      "article": "die"
+    },
+    {
+      "name": "Saftpressenklinge",
+      "article": "die"
+    },
+    {
+      "name": "Holzpresse",
+      "article": "die"
+    },
+    {
+      "name": "Müllpresse",
+      "article": "die"
+    },
+    {
+      "name": "Palast",
+      "article": "der"
+    },
+    {
+      "name": "Schloss",
+      "article": "das"
+    }
+  ]
+}
