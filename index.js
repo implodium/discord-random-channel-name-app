@@ -1,3 +1,6 @@
+import Discord from "discord.js"
+const client = new Discord.Client();
+
 const nameComponents = require("./NameComponents.json")
 
 function generateChannelName() {
@@ -6,11 +9,11 @@ function generateChannelName() {
 
     switch (nomen.article) {
         case "der":
-            return "Lukas's " + adjective + "er " + nomen.name
+            return "Lukas' " + adjective + "er " + nomen.name
         case "die":
-            return "Lukas's " + adjective + "e " + nomen.name
+            return "Lukas' " + adjective + "e " + nomen.name
         case "das":
-            return "Lukas's " + adjective + "es " + nomen.name
+            return "Lukas' " + adjective + "es " + nomen.name
     }
 }
 
