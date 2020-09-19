@@ -1,0 +1,8 @@
+version: '2.2'
+
+services:
+  node:
+    build: .
+    restart: always
+    container_name: random-channel-name-app
+    image: random-channel-name-app/deploy
