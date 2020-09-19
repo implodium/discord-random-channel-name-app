@@ -35,9 +35,7 @@ function changeName(channelObject) {
             let name = generateChannelName();
 
             if (name !== undefined) {
-                console.log(name)
                 channelObject.setName(name)
-                    .then(() => console.log("It works"))
                     .catch(console.log)
                 nameFound = true
             }
